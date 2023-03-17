@@ -1,5 +1,5 @@
 # [Eloquent - Model](https://packagist.org/packages/illuminate/database) 
-
+[-]
 - Collection
 
     [Collection](Collection.md) 
